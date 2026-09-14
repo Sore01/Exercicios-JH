@@ -1,0 +1,8 @@
+public class Hyuga extends Ninja{
+
+    public void OlhosHyuga() {
+        System.out.println("Meu nome é " + nome + ". Olhos Hyuga  Ativou, eu sou um hyuga");
+
+    }
+
+}
